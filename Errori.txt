@@ -1,3 +1,5 @@
+# misure #errori
+
 RIFERIBILITÀ: è requisito essensiale per il confronto in termini probabilistici, misurazioni diverse dello stesso
 			misurando effettuate con strumenti diversi.
 			Si parla di compatibilità quando le due misure sono compatibili. La misura non è il valore della grandezza che
@@ -60,4 +62,3 @@ random e sistematici.
 Alcuni metodi per ridurre errori sistematici sono:
 
 CATEGORIE DI ERRORE CHE NON SONO CAUSATI DALLO STRUMENTO DI MISURA
-
