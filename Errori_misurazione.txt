@@ -64,4 +64,3 @@ random e sistematici.
 Alcuni metodi per ridurre errori sistematici sono:
 
 CATEGORIE DI ERRORE CHE NON SONO CAUSATI DALLO STRUMENTO DI MISURA
-
