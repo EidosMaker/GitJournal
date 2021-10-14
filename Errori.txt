@@ -1,0 +1,63 @@
+RIFERIBILITÀ: è requisito essensiale per il confronto in termini probabilistici, misurazioni diverse dello stesso
+			misurando effettuate con strumenti diversi.
+			Si parla di compatibilità quando le due misure sono compatibili. La misura non è il valore della grandezza che
+			abbiamo misurato ma un intervallo di valori entro il quale può variare il dato registrato.
+			
+MISURA: intervallo di valori + incertezza, nella quale ricade il valore del nostro misurando.
+		Compatibilità unico criterio per confrontare risultati ottenuti da strumenti diversi della stessa grandezza.
+		L'approccio è di natura probabilistica. Strumenti perfetti e assoluti non esistono, non possiamo ottenere misure esatte,
+		esisterà sempre un'incertezza.
+		
+RIPRODUCIBILITÀ:(paragone: tornitura è processo tecnoligico, la misura è un processo.
+				Processo tornitura: risorse, strumento, operatore = Processo di misura)
+				Mi chiedo come posso ottenere risultati simili seguendo il processo ripetuto perfettamente n-volte,
+				sebbene possano variare risorse, strumenti e incertezza dell'operatore.
+				Grado di concordanza (quanto è riproducibile) che possiamo ottenere tra risultati di misurazione dello stesso
+				misurando quando le condizioni siano effettuate variando le condizioni.
+				Analizzo quantio più o meno dispersi siano i risultati di misurazione.
+				Il grado di dispersione di risultati ottenuti dallo stesso misurando, variando le condizioni
+				(cerco sempre di riprodurre al meglio la misurazione). 
+				Esprime anche la variabilità delle risorse che concorrono al processo di misurazione.
+				
+OFFSET: 	è la deriva di zero. Il valore non nullo indicato erroneamente dallo strumento quando lo strumento dovrebbe segnare
+			valore nullo.
+			
+FONDOSCALA: diverso dal campo di misura (esempio: termometro clinico). E' il limite superiore della scala di misura. Il campo
+			di misura è invece la parte della scala che è interessata dalla misura.
+
+TARATURA ED ERRORI DI MISURA:
+
+	CONFERMA METROLOGICA: insieme delle operazioni richeste per assicurare che le funzioni di un apparecchio per misurazione
+						  siano in uno stato di conformità ai requisiti per la utilizzazione prevista.
+	TARATURA: processo che assicura che lo strumento sia in uno stato di conformità per effettuare la misurazione.
+
+ERRORI ATTRIBUIBILI ALLO STRUMENTO DI MISURA:
+
+	ERRORI ILLEGITTIMI: errori di natura grossolana, che siano dovuti ad operatore, che siano errori di calcolo,
+						errori inaccettabili. Errori grossolani nel senso che l'ampiezza dell'errore che introducono
+						nella misurazione è tale da rendere privo di significato il risultato della misurazione stessa.
+						Portano contributi di energia tali da rendere falsata la misurazione.
+						Finchè è presente la causa che causa l'errore viene invalidata la misurazione, da qui il nome illegittimi.
+						Shermatura è una possibile soluzione per prevenire la presenza di errori illegittimi.
+	ERRORI SISTEMATICI:	tendono a produrre effetti di pari ampiezza sul risultato della misurazione. 
+						possono essere errori umani ripetitivi, errori di taratura, effetto di carico non corretto, ...
+						Errori di ampiezza costante per tutta la durata della misura e quindi influenzano qualunque misura della
+						variabile osservata.
+	ERRORE RANDOM O CASUALE: errore il cui effetto non è prevedibile nè in termini di ampiezza nè di segno.
+	
+Posso compensare solo errori sistematici a posteriori. Degli errori random, se non sono riuscito a compensarli o schermarli,
+posso solo stimarne l'effetto e quindi la ripercussione che questi presentano nei risultati.
+Posso costruire diagrammi e grafici di dispersione degli errori, quello che noterò è che l'andamento è di tipo Gaussiano,
+il valore medio dovrebbe essere il dato, la misura, che mi aspetto di ottenere. Il caso ideale sarebbe ottenere una curva
+a campana molto stretta, in cui quindi la dispersione è poca e sono così concentrati sul valore ideale.
+
+Per quanto tecnicamente possibile e per quanto utilitaristicamente sensato, cercherò sempre di ridurre se non eliminare gli
+eventuali errori sistematici e compensare fin quanto possibilie e utile gli errori random.
+L'incertezza è legata a questa serie di errori che per motivi tecnici non mi interessa provare a filtrare ancora (si tratta
+solamente di errori sitematici o random, non devo MAI avere errori illegittimi). L'incertezza dunque è causa di errori di natura
+random e sistematici.
+
+Alcuni metodi per ridurre errori sistematici sono:
+
+CATEGORIE DI ERRORE CHE NON SONO CAUSATI DALLO STRUMENTO DI MISURA
+
