@@ -1,2 +1,0 @@
-# GitJournal
-Sync GitJournal
