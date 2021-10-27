@@ -1,4 +1,4 @@
-#estrusione #tm #tecnologiameccanica	20/10/21
+# estrusione #tm #tecnologiameccanica #bulkforming	20/10/21
 
 Lavorazioni per estrusione ci permettono di realizzare una gamma di prodotti notevoli, ottenendo forme anche molto complicate se lavorate a caldo. Principio simile a quello della pastamatic, la pasta si estrude. Costringo il materiale (a freddo o a caldo) a subire una variazione di geometria e quindi subire deformazioni.
 Famiglie di estrusione:
@@ -34,4 +34,3 @@ Costruisco un grafico per cui riesco ad inserire tutte le aliquote di energia e 
 	GEOMETRIE DEGLI ESTRUSI CHE PREVEDONO UNA CAVITÀ/FORO.
 	Nei profilati sarebbe follia pensare di forare al termine della lavorazione di estrusione, andrei in contro a errori notevoli. La cavità deve essere realizzata nel processo di estrusione. Per creare un vuoto mi serve un pieno: utilizziamo le SPINE per creare fori. La spina non può essere flottante, ma come si tiene? La spina è sorretta da delle costolette/spider da elementi che mi sostengono il puntone centrale. Matrice a port hole(?): nei pressi degli spiders il materiale si separa, si divide, e superati questi setti divisori il materiale si troverà in condizioni di pressione e temperatura e tempo affinchè si possa effettuare di nuovo il legame tra il metallo stesso che si è separato (solid bonding). In generale questo processo funziona bene a caldo, ma a prescindere il processo di estrusione con geometrie complesse viene eseguite a caldo. Striature bianche sono superfici di bonding che non è avvenuto benissimo (non si è innescato fenomeno di ricristallizzazione). Quello che si fa è aumentare la velocità di deformazione e aumenta la temperatura (cioè aumento l'energia) del processo.
 	Non è detto che si voglia estrudere semplicemente un tubo cavo, magari ci sono elementi che presentano cavità.  I processi di estrusione di geometrie complesse richiedono matrici complesse.
-	
