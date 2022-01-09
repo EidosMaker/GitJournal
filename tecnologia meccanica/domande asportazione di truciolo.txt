@@ -1,0 +1,254 @@
+Cosa vuol dire lavorare per asportazione di truciolo
+Moti fondamentali in processi per asportazione di truciolo
+
+TORINITURA
+
+Moti fondamentali
+Moti fondamentali in piallatrice e limatrice
+Moro di taglio
+Moto di avanzamento
+Moto di registrazione
+Che significa cilindratura
+Tornitura sferica
+Troncatura
+Sfacciatura
+Tornitura conica: 2 metodi
+Differenza tra processi di forma e di generazione
+Esempio di processo di forma
+Esempio di processo di generazione
+Esempio di processo misto (forma/generazione)
+Parametri fondamentali in tornitura
+Come si costituisce l'utensile di tornitura
+Come avviene la meccanica di deformazione del truciolo e quindi la asportazione
+Geometria degli utensili, angoli e nomenclatura
+Contatto truciolo e utensile: come avviene e che influenza hanno su questo gli angoli dell'utensile
+Cosa è il petto dell'utensile
+Cosa è il fianco dell'utensile
+Definizone dell'angolo di spoglia superiore e inferiore e caratteristiche
+Definizione piano di riferimento e asse di riferimento
+Definizione dell'angolo di inclinazione del tagliente principale
+
+MATERIALI PER UTENSILI
+
+Quali caratteristiche si cercano nei materiali per costruzione di utensili
+Da cosa viene causato innalzamento di temperatura nell'utensile
+A cosa è proporzionale l'aumenta di temperatura
+Si parli degli acciai al carbonio
+Si parli degli acciai rapidi
+Si parli degli acciai super rapidi
+Si spieghi come avviene il processo di tempra di soluzione
+Cosa sono i metalli duri
+Quali sono i carburi metallici più diffusi
+Qual è il legante impiegato nei processi di sinterizzazione dei carburi
+Se vario la percentuale di legante, cosa si modifica nel materiale (cambiano caratteristiche)
+Descrivere processo di sinterizzazione
+Widia
+Problema che insorse utilizzando carburi metallici, legato all'usura
+Come si contrastò tale problema
+Categoria P
+Categoria K
+Categoria M
+Perchè è stato necessario rivestire i carburi
+Con cosa si rivestono le placchette
+Cosa migliora il rivestimento
+Metodi per il rivestimento delle placchette (CVD, PVD)
+Introduzione degli utensili in ceramica pro and cons
+Introduzione delgi utensili in cermets pro and cons
+Nitruro cubico di boro
+Diamante policristallino
+Come deve essere la macchina all'aumentare delle prestazioni dell'utensile
+
+FORZE DI TAGLIO
+
+Qual è la componente più rilevante delle forze di taglio e perchè
+Che relazione si è cercato di realizzare (legare la forza a che parametri)
+Quali sono i parametri per esprimere le dimensioni del truciolo e come sono legati a profondità di passata e avanzamento per giro
+Come è definita la snellezza del truciolo
+Come è definita lo spessore del truciolo
+Coefficienti Ks, Cz, z1, z2 cosa sono e da cosa derivano
+Come la forza Pz dipende dalla velocità
+Fenomeno del tagliente di riporto
+Se aumenta la velocità che succede in termini di temperature e cosa determina ciò
+All'aumentare della velocità che relazione risulta verificarsi per la potenza
+Come le forze da taglio dipendono dall'angolo di spoglia superiore
+Come le forze da taglio dipendono dall'angolo del tagliente principale
+
+TEMPERATURE DI TAGLIO
+
+Da cosa è causato l'incremento di temperatura considerando che non stiamo fornendo calore
+Da che parametri dipende l'innalzamento di temperatura
+
+USURA DEGLI UTENSILI
+
+Cosa determina l'usura dell'utensile e perchè non dobbiamo lavorare con utensile usurato
+Descrivere usura per fenomeni di diffusione e ossidazione
+Descrivere usura adesiva
+Descivere usura abrasiva
+Descivere il fenomeno di usura per fatica termomeccanica del materiale dell'utensile
+Da che meccanismo di usura è caratterizzato lo spigolo del tagliente e da che meccanica di usura è principalmente causato
+Da che meccanismo di usura è caratterizzato il petto dell'utensile e da che meccanica di usura è principalmente causato
+Dove si registra la temperatura maggiore nell'utensile
+Qual è il parametro che definisce l'entità del labbro di usura
+Quali sono i parametri che definiscono l'usura in cratere
+Descrivere l'evoluzione del labbro di usura nel tempo per fissata velocità
+Cosa succede all'aumentare della velocità di taglio
+Cosa è il parametro VB* e che valori sono generalmente accettati
+Che ci permette di capire il parametro VB*
+Cosa è la legge di Taylor (valori tipici dell'esponente n e m e x per legge generalizzata)
+Spiegare i parametri della legge di Taylor
+Descivere l'andamento mostrato dalla legge di Taylor nel piano logaritmico
+Come varia la retta che correla punti sperimentali al variare di n
+Come fa variare la vita utile del tagliente la scelta dell'angolo di inclinazione del tagliente
+
+OTTIMIZZAZIONE DI UN PROCESSO DI TORNITURA
+
+Cosa si cerca di determinare quando si parla di ottimizzazione di processo
+Quali sono le funzioni obiettivo
+Che vuol dire riduzione dei costi
+Che vuol dire riduzione dei tempi
+Parametri di taglio, geometri utensili e vincoli
+Cosa deve essere di fissato nei processi di ottimizzazione
+Quali sono le ipotesi che ci permettono di regolare processo di ottimizzazione
+Quali sono le voci di costo
+Come calcolo il costo della lavorazione
+Come tengo conto dei costi indiretti relativi alla manodopera
+Cosa è il costo aziendale
+Come tengo conto dell'ammortamento della macchina e quali sono i parametri che uso
+Cosa è e come calcolo il costo del posto di lavoro
+Cosa indica il parametro t
+Quando parlo di tutto ciò che è legato al costo dell'utensile, di cosa sto tenendo conto
+Cosa si intende con tempi passivi
+Cosa è il parametro R
+Il costo totale come lo calcolo (in forma estesa e in forma compatta inserendo la R)
+Come calcolo il numero di pezzi prodotto con un singolo tagliente
+Posso esprimere il costo totale come somma di tre aliquote, ovvero:
+In assenza di vincoli come posso ottenere la relazione che mi esprima la velocità tale per cui i miei costi sono i minori ottenibili
+In funzione di che parametro ottengo velocità più basse e costi più contenuti quando non ho vincoli relativi alla rugosità
+In assenza di vincoli come posso ottenere la relazione che mi esprima l'avanzamento tale per cui i miei costi sono i minori ottenibili
+Come posso capire se la coppi
+Come posso sapere se il punto che trovo rispetto al minore costo per avanzamento per giro fissato sia un minimo assoluto(?)
+Se l'obiettivo risulta essere la riduzione dei tempi come cambia la velocità(di massima produzione)
+Come determino in assenza di vincoli l'intervallo di massima efficienza
+Come cambia la scelta delle velocità in tornio tradizionale rispetto a un tornio CN
+Se invece sono in presenza di vincoli che limitazioni ho
+Come ottengo il range di velocità da cui posso scegliere la mia velocità
+Come scelgo angolo di spoglia inferiore rispetto all'angolo dell'elica che descrive l'utensile
+Che fenomeno devo considerare e mantenermi quindi conservativo
+Da cosa è dettato il compromesso che determina una scelta dell'angolo compresa tra valori grandi e valori piccoli (6°)
+Come scelgo angolo di spoglia superiore e cosa cambia al variare di tale angolo
+Che valori può assumere tale angolo
+Scelta del'angolo del tagliente principale (psi) da cosa è dettata
+Range di valori entro cui scegliere tale angolo
+Parametri che determinano la scelta di questo angolo
+Perchè non posso superare i 70°
+Da cosa è dettata la rugosità del pezzo tornito finale
+Quale semplificazione non possiamo adottare per il calcolo della rugosità
+In che rapporto stanno rugosità totale con rugosità finale
+Realmente cosa cosideriamo (che geometria dell'utensile reale)
+
+FRESATURA
+
+Quali tipologie di fresature possiamo effettuare e per cosa le differenziamo
+Fresatura è processo di forma o generazione
+Che impiego trovano quando sfrutto un centro di lavoro
+Nella realizzazione degli stampi che frese si utilizzano e a che velocità di rotazione
+Moti nella fresatura
+Meccanica di formazione del truciolo
+Differenza tra fresatura in opposizione e fresatura in concordanza
+In cosa esprimo la velocità di avanzamento
+Componenti delle forze in fresatura in opposizione
+Componenti delle forze in fresatura in concordanza
+Perchè nelle macchine tradizionali uso la fresatura in opposizione
+In cosa consiste il meccanismo di recupero automatico dei giochi
+Cosa rischio nella fresatura in opposizione se il labbro non è perfettamente affilato
+Come posso effettuare il calcolo della sezione di truciolo tagliato nella fresatura periferica in opposizione con frese cilindriche a denti diritti
+Che ipotesi devo effettuare prima di iniziare lo studio della sezione di truciolo tagliato nel caso di frese a denti diritti
+Cosa risulta dalla combinazione di moti in fresatura
+In fresatura in opposizione l'avanzamento del dente come può anche essere espresso
+Come varia lo spessore di truciolo tagliato e qual è la massima sezione di truciolo asportato
+Come varia l'andamento della sezione di truciolo nel tempo nel caso di fresa denti diritti e di conseguenza come variano le forze e potenza e perchè
+Generalmente che valori assume l'angolo massimo dell'arco di abbracciamento del dente (fi_max)
+Che sistema si utilizza per contrastare l'andamento a dente di sega delle forze in un processo di fresatura periferica
+Spiegare come varia la sezione di truciolo asportata con fresa a denti elicoidali
+Come variano le forze in processo di fresatura periferica con fresa a denti elicoidali
+In proporzione al diametro della fresa per fresatura frontale come risulta essere la larghezza del pezzo da lavorare
+Quali sono i moti in processo di fresatura frontale
+L'asse di rotazione della fresa come è posto rispetto all'asse simmetria longitudinale del pezzo
+Di quanto sporge la fresa frontale rispetto al pezzo da lavorare in entrambe i lati
+Perchè si disassa la fresa rispetto all'asse di simmetria longitudinale del pezzo in un processo di fresatura frontale
+Perchè l'asse della fresa viene inclinato leggermente 
+Vantaggio della fresatura frontale rispetto alla periferica
+Come calcolo forze in fresatura frontale
+
+RETTIFICA
+
+In cosa si differenzia la rettifica tangenziale in piano rispetto alla rettifica frontale in piano
+Evidenziare moti nelle rettifiche in piano, in tondo e centerless
+A cosa serve la rettifica in tondo
+Perchè si esegue rettifica centerless, spiegare inoltre le dinamiche di rettifica
+Come si costituiscono le mole per rettifica
+Quali sono le caratteristiche di una mola
+I grani di abrasivo di che materiale possono essere
+Come possiamo immaginare la superficie di una mola
+Come possiamo determinare la approsimmativa rugosità del pezzo se conosciamo la mola impiegata
+In cosa si differenziano mole a grana grossa e mole a grana fine
+A cosa corrisponde la grana e il numero associato ad essa
+A che serve il legante nelle mole
+Che leganti si utilizzano nella realizzazione delle mole
+Qual è la caratteristica delle mole che consente loro di tagliare sempre alla stessa qualità rimpicciolendosi
+Cosa comporta la durezza dell'agglomerante
+Per cosa si usano mole dure e per cosa quelle tenere
+Con che parametro viene indicato il grado di durezza di una mola
+Cosa si intende per porosità della mola
+Cosa causa una mola più porosa rispetto ad una meno porosa
+Cosa succede se la mola si impasta
+In che lavorazioni vengono impiegate mole molto porose
+Come viene indicata la porosità di una mola nelle tabelle che fornisce il produttore
+Spiegare cosa indicano i codici e simboli riportati nelle tabelle di specifiche di una mola
+Quali sono i parametri di processo di rettifica
+Cosa è il rapporto di rettifica ed in che modo i parametri di processo lo influenzano
+Come faccio ad ottenere un'alta finitura superficiale in processo di rettifica
+Come voglio che sia la velocità di taglio in processo di rettifica
+Come voglio che sia la velocità di avanzamento in processo di rettifica
+Che valori generalmente assume rispetto a sgrossatura e finitura e super finitura la profondità di passata in processo di rettifica
+
+REALIZZAZIONE DI RUOTE DENTATE
+
+Le ruote dentate possono essere create con che tipologia di processo (forma o generazione)
+Con fresa universale come posso creare ruote dentate 
+Qual è lo svantaggio di usare processo di forma
+Di che angolo deve ruotare lo sbozzato cilindrico per ottenere una corretta ruota dentata
+Quali sono i vantaggi di creare ruote dentate per gernerazione piuttosto che per forma
+Come ottengo profilo ad evolvente
+Quali tipi di processo conosci per costruire ruote dentate per generazione
+Come funziona la creazione di una ruota dentata con dentatrice Fellows
+Quali sono i moti nella creazione di una RD con dentatrice Fellows
+Come si realizza una ruota dentata con Dentatrice a creatore
+Qual è l'utensile tagliente nella dentatrice a creatore
+Quali sono i moti in un processo di creazione di ruota dentata con dentatrice a creatore
+Se volessi costruire ruote dentate a denti elicoidali come posso fare con dentatrice a creatore
+Cinematismi dentatrice Fileccia
+
+CICLI DI FORATURA
+
+Che tipologia di fori si realizzano
+Che procedimento si esegue nella realizzazione di un foro
+Descrivere la geometria di una punta elicoidale per foratura
+A cosa serve il codolo cilindrico su punta elicoidale
+A cosa servono le scanalature elicoidali su punta elicoidale
+Qual è il parametro che caratterizza le scanalature elicoidali di una punta e al variare di questo cosa cambia durante la foratura
+Quali sono i taglienti in una punta elicoidale
+Da cosa dipendono gli angoli in una punta elicoidale
+Cosa è e a quanto equivale il diametro del nocciolo di una punta elicoidale
+In funzione della durezza del materiale da forare come cambia l'angolo fi di inclinazione dell'elica delle scanalature della punta (in generale tra che valori è compreso)
+Cosa determina l'angolo di inclinazione del tagliente eta
+Spiegare cosa si verifica per bassi e alti valori di eta
+Spiegare le componenti delle forze durante ciclo di foratura
+
+In cosa si differenziano le macchine utensili tradizionali rispetto a macchine a controllo
+Cosa si intende per automazione e quali sono i vantaggi che apporta in un processo manifatturiero di un qualunque prodotto
+Che si intende per automazione rigida o flessibile
+A cosa è volta l'automazione nelle industrie
+
+
+

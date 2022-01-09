@@ -1,0 +1,96 @@
+DOMANDE FONDERIA
+
+Quali sono i fattori fondamentali in un processo di fonderia
+In cosa consiste un processo fusorio e quali sono i processi che si svolgono in fonderia
+In che casi viene preferito agli altri processi produttivi
+Quali sono i difetti dei pezzi prodotti per fusione
+In cosa consiste il fenomeno di ritiro di soluzione
+Da cosa dipende il tendere allo stato solido di una sostanza
+Quali sono le strutture di reticolo cristallino più rilevanti dal punto di vista ingegneristico
+Cosa sono le trasformazioni allotropiche
+Partendo da metallo liquido, come si formano i grani del metallo
+Che influenza ha la velocità di raffreddamento sulla struttura dei grani
+Nei diagrammi di stato, dove possiamo individuare la zona di solidificazione e fusione
+Quali sono i principali difetti reticolari di solidificazione
+Descrivere come si configura una struttura denditrica e per quali motivi si forma
+Descrivere le tre fasi della formazione di microstrutture nel getto
+Quali sono le differenze tra le fasi di formazione di mircrostrutture tra leghe e metalli puri
+Cosa è la segregazione
+Che influenza hanno i moti convettivi nel metallo liquido sulla formazione dei grani
+In che metalli possiamo individuare un forte fenomeno di dendritismo
+In fonderia, come posso ottenere una struttura a grana fine in un pezzo compatibilmente alle sue specifiche di resistenza richiesta e quale tra i metodi è preferito e perchè
+Come si definisce la fusibilità di un metallo e in che modo viene determinata
+Da che parametri è influenzata la colabilità
+Cosa è la temperatura di fusione di un metallo
+Nel fenomeno del ritiro volumetrico cosa determina la direzione di asportazione del calore
+In fonderia come si compensano i difetti causati dal fenomeno del ritiro volumetrico
+Cosa sono le materozze, a che servono e dove vanno poste
+In che punto del pezzo si verificano le cavità di ritiro
+Il baricentro termico coincide con il baricentro fisico?
+Come posso dimensionare una materozza (come deve essere il suo modulo termico)
+Come posso eseguire una solidificazione orientata e quando è necessaria (individuare zone critiche in fusione orientata e correzione con opportuni strumenti)
+Come si configurano i raffreddatori (chiller) e quando uso quelli interni rispetto a quelli esterni
+Come si formano le soffiature
+In che modo i fenomeni di soffiature e di formazione di cavità di ritiro sono collegati
+Quali sono gli accorgimenti da adottare per scongiurare la formazione di soffiature
+Cosa sono le tensioni di ritiro e come si originano
+Cosa possono causare le tensioni di ritiro
+Cosa è e da cosa è causato il difetto di KissingBond o misrun
+
+PROCESSI DI FONDERIA
+
+Quali sono i materiali delle forme (sia transitorie che permanenti) utilizzati in campo fusorio
+Descrivere processo fusorio a partire dalla realizzazione della forma fino alla realizzazione del pezzo finito
+Materiali usati per le forme a perdere
+Che accorgimenti vanno usate nella selta della grana delle sabbie e in funzione di cosa
+Che qualità deve possedere la sabbia per la forma in terra
+Come si realizza interamente un processo di costruzione di una forma in terra
+In che modo i modelli differiscono dal pezzo finito, di cosa bisogna tenere conto
+I modelli permanenti per che che tipo di produzione si utilizzano (grossi o piccoli lotti)
+Cosa è il modello a sagoma o a scheletro e in che casi viene impiegato
+Che materiali generalmente vengono scelti per i modelli permanenti e perchè
+Il modello è per forza un'unica parte? Se no, per quale motivo
+Per cosa si utilizza la placca modello
+Qual è l'entità degli angoli di sformo
+A cosa devo prestare attenzione nella selta del piano di separazione delle staffe
+Cosa sono ed eventualmente come posso risolvere sottosquadri
+Cosa sono e a cosa servono le tirate d'aria nella forma
+Come si realizzano pezzi che presentino cavità
+Come vengono sorrette le anime e in che materiale queste vengono costruite
+Come si provvede all'estrazione dell'anima una volta che il getto è solidificato
+Quali terre si usano nella realizzazione di stampi in terra
+Che accorgimento di tipo metallostatico devo considerare nella scelta del piano di separazione delle staffe
+La pressatura della terra può essere realizzata in diversi modi (tutti a macchina)
+La forma può essere solo permanente?
+In cosa consiste la tecnica di fusione per cera persa
+Qual è il maggior campo di produzione di pezzi con tecniche a cera persa
+Descrivere processo di realizzazione di pezzi con tecniche a cera persa
+Quali processi fusori utilizzano forme permanenti
+Che caratteristica fondamentale deve presentare il metallo nei processi che prevedono utilizzo di una forma permanente (conchiglia)
+Qual è la dimensione dei pezzi che posso produrre utilizzando colata in conchiglia
+Quali caratteristiche deve possere il metallo con cui vengono realizzate le forme permanenti
+Perchè si effettua un preriscaldamento delle conchiglie prima della colata
+Che rivestimenti vengono applicati alle conchiglie e perchè
+Come si risolvono con forme permanenti i problemi di sottosquadro
+Le anime come possono essere in fusione con conchiglie
+Come viene effettuata la espulsione dei getti nelle forme permanenti
+Quali sono le tre principali tecniche di colata in campo metallurgico
+Quali sono le tecniche di colata con applicazione di pressione
+In cosa differiscono le tecniche di presso e inietto fusione
+Qual è l'entita delle pressioni da applicare in iniettofusione e in pressofusione e da cosa è causata questa differenza
+Perchè talvolta si ricorre alla colata sottovuoto
+Quali sono le tre tecniche di colata centrifuga
+Per quale principale applicazione viene utilizzata la colata centrifuga pura
+Descrivere il meccanismo di fusione per colata centrifuga pura
+Descrivere il meccanismo di fusione per colata semicentrifuga
+Descrivere il meccanismo di fusione per colata centrifuga multipla
+Nella colata centrifuga pura come si configura la sezione interna del pezzo che stiamo realizando
+Cosa è il G-Factor ed entro che valori deve essere compreso per una buon pezzo finito
+Se il G-Factor dovesse assumere valori troppo bassi cosa succederebbe
+Nella colata centrifuga pura quale condizione di numero di giri si deve realizzare
+Quale applicazione trova la colata semicentrifuga e quali sono i suoi vantaggi
+Per cosa viene principalmente utilizzata la colata centrifuga multipla e quali sono i suoi vantaggi
+Quali materiali vengono impiegati nella fonderia in forme permanenti
+In quali macrocategorie posso classificare i difetti in fonderia e quali sono i più pericolosi
+Quali sono i principali difetti esterni e da cosa sono causati
+Quali sono i principali difetti interni e da cosa sono causati

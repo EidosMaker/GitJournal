@@ -1,0 +1,144 @@
+Argomenti giunzioni:
+
+Tipologia driver che determinano il tipo di giunzioni che posso attuare
+Saldature autogene ed eterogene(brasatura)
+Saldature per fusione o per pressione
+
+SALDATURA OSSIACETILENICA
+
+Apporto termico specifico: cosa è e come risulta essere nella saldatura alla fiamma
+Effetto dell'aumento di temperatura nella struttura del metallo
+Costo saldatura ossiacetilenica
+Problemi che presenta tale saldatura
+In che modo posso differenziare taglio e saldatura alla fiamma
+
+SALDATURA AD ARCO ELETTRICO
+
+Funzionamento fisico dell'arco elettrico
+Rivestimento dell'elettrodo, a che serve
+Cosa è il cianfrino
+Come la distanza tra elettrodo e pezzo influenza l'arco elettrico
+Processo continuo o discontinuo
+Apporto termico specifico per saldatura ad arco
+Rendimento dell'elettrodo
+Come modifico l'intensità di corrente necessaria
+Temperatura anodo e catodo
+Distribuzione della corrente tra anodo e catodo
+Polarità diretta e inversa
+Che peso ha l'operatore su questo tipo di saldatura
+
+SALDATURA TIG (tungsten inert gas)
+
+Come è fatta pistola TIG
+Elettrodo per TIG
+Che tipo di saldature realizza (autogene/eterogene)
+Ruolo del gas protettivo in questa saldatura
+In che regime di corrente funziona la macchina e che polarità si adotta
+che Materiale d'apporto uso
+Caso della formazione di ossido di alluminio
+Quale Gas inerte uso
+
+SALDATURA MIG/MAG
+
+Differenza tra MIG e MAG
+Differenze tra i due gas schermati sulla saldatura
+Sistema di avanzamento del materiale d'apporto
+Tecniche WAM
+Parametri di processo
+Cosa succede se aumento velocità di saldatura
+E se aumento invece l'intensità di corrente
+
+SALDATURE AD ARCO SOMMERSO
+
+Unità di controllo e macchina saldatrice sono distinte
+Da cosa deriva il nome arco sommerso
+Tipo di rivestimento
+Che tipo di processo è (one shot one kill)
+
+SALDATURA LASER
+
+Apporto termico specifico
+Da cosa deriva flessibilità nell'utilizzo del laser
+Problema non superabile è ...
+Come risulta essere la produttività in un processo industrializzato che preveda utilizzo di laser
+Rendimento del laser
+Meccanica di saldatura al variare della energia impiegata
+Come funziona la saldatura per plasma
+Oltre che per saldare, come posso utilizzare il laser
+
+SALDATURE A RESISTENZA
+
+Che principale categoria di saldature realizzano
+Effetto fisico che viene sfruttato per effettuare riscaldamento localizzato
+Apporto termico specifico
+Strategia per diminuire resistenza sulle lamiere
+Parametri di processo
+In che modo influisce il carico applicato
+Struttura del materiale nel bottone di saldatura
+Profilo di temperature
+Ruolo del tempo
+Effetto di incollatura
+Effetto di forature e spruzzi
+Come funziona nelle moderne macchine
+Come avviene effettivamente la saldatura (storia di pressione e corrente)
+
+SALDATURA A RULLI
+
+Cosa sono i rulli
+Che tipologie di metallo si saldare
+Caratteristica del cordone di saldatura
+Cosa vuole dire che è presente un clock di chiusura del circuito
+Densità dei punti di saldatura
+Stato tensionale residuo
+Softening meccanico
+
+
+In generale come capisco che tipologia di saldatura utilizzare
+
+GIUNZIONI PER DEFORMAZIONE PLASTICA/FASTENING MECCANICO
+
+CLINCHING
+
+Principio di funzionamento di tecnologie di giunzione di fastening meccanico
+Confronto con saldatura: come varia resistenza a taglio e strappamento
+Clinching riproduce un particolare processo di deformazione plastica
+Vantaggi rispetto saldature
+Svantaggi
+Vincolo di non separabilità delle lamiere garantito da cosa
+Si lavora per entità di deformazione o per carico applicato
+Shear clinching e piccolo processo di imbutitura
+Parametri di processo sono calibrati per ragiungere che massimizzazione
+Applicazioni nel lavoro
+Matrice e influenza di questa sul pezzo lavorato
+Matrice Rubber like
+Raggio di raccordo durante moto relativo tra matrice e punzone
+
+SELF PIERCING RIVETING PROCESS
+
+Differenze rispetto al precedente clinching
+Come si configura un rivetto
+Macchina per rivettare in cosa si differenzia rispetto a quella per clinching
+Materiale del rivetto
+Deformazioni del rivetto e della lamiera
+Si verifica tranciatura?
+Pregi e difetti rispetto al clinching
+Come vorrei il rivetto
+Descrivere evoluzione del processo
+
+SOLID BONDING (saldatura allo stato solido)
+
+Meccanica di saldatura
+Tipologia di utensile impiegato
+Zone che si formano nel materiale, che condizioni si raggiungono
+I grani cambiano dimensione, in che modo
+Come cambia la resistenza a taglio o a strappamento
+Svantaggi
+Apporto termico specifico dipendente da cosa
+
+
+
+
+
+
+
+
