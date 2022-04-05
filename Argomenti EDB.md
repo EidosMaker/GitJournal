@@ -1,16 +1,11 @@
 ---
 created: 2022-04-03T20:36:53+02:00
-modified: 2022-04-05T08:36:24+02:00
+modified: 2022-04-05T09:16:54+02:00
 ---
 
 # Argomenti EDB
 
-Prova uno
-Prova due
-Prova tre
-Prova quattro
-
-Prova uno.uno
-
-Favela
-Prova
+Spiegazione teorica segnali PPG 
+Laboratorio
+Matlab: processato e filtrato segnali ECG e PPG
+Matlab: studio segnali sperimentali
